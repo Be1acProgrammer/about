@@ -7,9 +7,13 @@
 2: I HAVE MY .configs FOR LINUX AND MY DWM RICE!
 
 
-list of pubic all 1-6 links/ulrs
+list of pubic whoogle all 1-6 links/ulrs
 
 
 |https://whoogle-search-1.sheepblue1234.repl.co/|
+
 |https://whoogle-search-2.sheepblue1234.repl.co/|
-(https://t3chs3ar3h.sheepblue1234.repl.co/)
+
+|https://t3chs3ar3h.sheepblue1234.repl.co/|
+
+|https://belac-searchin.sheepblue1234.repl.co/|
