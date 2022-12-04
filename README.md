@@ -2,9 +2,12 @@
 
 
 
-#1: YOU CAN USE MY CUSTOM WHOOGLE HERE ARE THE ULRS/LINKS FOR USE
+1: YOU CAN USE MY CUSTOM WHOOGLE HERE ARE THE ULRS/LINKS FOR USE!
+2: I HAVE MY .configs FOR LINUX AND MY DWM RICE!
 
-#list of pubic all 1-6 links/ulrs
-#////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\
-#|https://whoogle-search-1.sheepblue1234.repl.co/|
-#|https://whoogle-search-2.sheepblue1234.repl.co/|
+
+list of pubic all 1-6 links/ulrs
+
+
+|https://whoogle-search-1.sheepblue1234.repl.co/|
+|https://whoogle-search-2.sheepblue1234.repl.co/|
