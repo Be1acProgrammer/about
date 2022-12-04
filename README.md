@@ -1,6 +1,6 @@
-# so I'm am the be1ac I am a programing the future of the web for many users to use my applications they are pubicly available for use and you can help support my websites and other things in this readme file
+# I'm am the be1ac
 
-
+I am a programing the future of the web for many users to use my applications they are pubicly available for use and you can help support my websites and other things in this readme file
 
 1: YOU CAN USE MY CUSTOM WHOOGLE HERE ARE THE ULRS/LINKS FOR USE!
 
@@ -29,3 +29,5 @@ IF ONE IS DOWN SWITCH SERVERS AND WATCH THE UPTIME WITH THIS LINK
 --
 https://statuspage.freshping.io/63826-betawhoogle/
 --
+
+IF you have any questions email be at githubhelp.hqu1p@simplelogin.com
