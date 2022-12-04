@@ -30,4 +30,7 @@ IF ONE IS DOWN SWITCH SERVERS AND WATCH THE UPTIME WITH THIS LINK
 https://statuspage.freshping.io/63826-betawhoogle/
 --
 
-IF you have any questions email be at githubhelp.hqu1p@simplelogin.com
+IF YOU HAVE ANY QUESTIONS EMAIL ME AT:
+--
+githubhelp.hqu1p@simplelogin.com
+--
