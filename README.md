@@ -9,11 +9,23 @@
 
 list of pubic whoogle all 1-6 links/ulrs
 
+-------------------------------------------------------
 
-|https://whoogle-search-1.sheepblue1234.repl.co/|
+https://whoogle-search-1.sheepblue1234.repl.co/
 
-|https://whoogle-search-2.sheepblue1234.repl.co/|
+https://whoogle-search-2.sheepblue1234.repl.co/
 
-|https://t3chs3ar3h.sheepblue1234.repl.co/|
+https://t3chs3ar3h.sheepblue1234.repl.co/
 
-|https://belac-searchin.sheepblue1234.repl.co/|
+https://belac-searchin.sheepblue1234.repl.co/
+
+https://whoogle-yearnforprivacy.sheepblue1234.repl.co/
+
+https://whoogle-yearnforprivacy.sheepblue1234.repl.co/
+
+--------------------------------------------------------
+NOTE:
+IF ONE IS DOWN SWITCH SERVERS AND WATCH THE UPTIME WITH THIS LINK
+--
+https://statuspage.freshping.io/63826-betawhoogle/
+--
