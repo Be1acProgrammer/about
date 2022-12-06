@@ -21,7 +21,7 @@ https://belac-searchin.sheepblue1234.repl.co/
 
 https://whoogle-yearnforprivacy.sheepblue1234.repl.co/
 
-https://whoogle-yearnforprivacy.sheepblue1234.repl.co/
+https://whoogle-yearntoburn.sheepblue1234.repl.co/
 
 --------------------------------------------------------
 NOTE:
